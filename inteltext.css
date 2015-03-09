@@ -1,0 +1,114 @@
+body{
+
+background: url(greyback.jpg);
+
+
+}
+
+h2, h3{
+color: white;
+font-family: "Helvetica Neue",Helvetica,"Myriad Pro","Lucida Grande",sans-serif;
+font-weight: 200;
+line-height: 1.5;
+width:40%;
+
+}
+
+h2 { margin-top: -4%;
+     margin-left: 10%;}
+
+h3{ margin-left: 10%;}
+
+.video { margin-left: 55%;
+         margin-top: -15%;
+
+    }
+
+ .sign-up, .sign-in, .logo {  color: white;
+ font-family: "Helvetica Neue",Helvetica,"Myriad Pro","Lucida Grande",sans-serif;
+ font-weight: 200;
+
+ }
+
+ .sign-in {  
+
+display: inline-block;
+left: 50vw;
+top: -23vh;
+position: relative;
+left: 1.3vw;
+top: -29.8vh;
+width:100px;
+height:30px;
+background-color: yellow;
+text-align: center;
+padding-top: 10px;
+color: black;
+border-radius: 3px;
+}  
+
+.sign-up { 
+display: inline-block;
+position: relative;
+width:100px;
+height:30px;
+background-color: yellow;
+text-align: center;
+padding-top: 10px;
+color: black;
+border-radius: 3px;
+top: -8.8vh;
+left: 65vw;
+
+
+}
+
+ .header { display: inline-block;   }
+
+ .logo { display: inline-block;
+font-size: 45px;
+position: relative;
+background: none repeat scroll 0% 0% #FF0;
+left: 5vw;
+top: -6vh;
+padding: 7px;
+color: black;   }
+
+.product, .pricing, .documentation, .contact {
+
+	color: white;
+	font-family: "Helvetica Neue",Helvetica,"Myriad Pro","Lucida Grande",sans-serif;
+	font-size: 200;
+	display: inline-block;
+		position: relative;
+		padding: 10px;
+		border: 1px solid grey;
+
+		border-radius: 5px;
+
+
+
+}
+
+.product { 
+
+top: -26vh;
+left: 26vw;
+
+}
+.pricing { 
+
+	top: -11.3vw;
+left: 66vh;
+
+}
+.documentation { 
+
+top: -26vh;
+left: 32vw;
+}
+.contact { 
+left: 80vh;
+top: -11.4vw;
+}
+
